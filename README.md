@@ -3,6 +3,8 @@ SimpleStripe-Theme-Add-Ons
 
 SimpleStripe-Theme-Add-Ons is a pack of additional code that can be used to enhance the basic install of the SimpleStripe Theme.
 
+View the [Screencast on Applying Add-Ons](http://screenr.com/e3E)
+
 Currently the Add-on has two added features files:
 
 + SiteConfigExtra
